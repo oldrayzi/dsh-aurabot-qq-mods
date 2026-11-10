@@ -1,0 +1,14 @@
+{
+  "id": "persona-growth",
+  "name": "人格成长",
+  "version": "0.1.0",
+  "description": "每天中午独处思考一次，轻微调整性格、喜好、习惯和说话方式；每次变化都保存前后快照，可在 QQ 或面板查询、回滚",
+  "category": "social",
+  "tags": ["人设", "成长", "自省", "历史"],
+  "author": "Rayzi",
+  "license": "MIT",
+  "api": 1,
+  "minPluginVersion": "1.2.0",
+  "requires": [],
+  "capabilities": ["filesystem", "plugin-config", "plugin-internals"]
+}
